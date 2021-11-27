@@ -1,0 +1,293 @@
+,Date,Home_Team,Score,Away_Team
+0,14-08-2021,Alaves,1 - 4,Real Madrid
+1,21-08-2021,Alaves,0 - 1,Mallorca
+2,27-08-2021,Valencia,3 - 0,Alaves
+3,18-09-2021,Alaves,0 - 2,Osasuna
+4,22-09-2021,Espanol,1 - 0,Alaves
+5,25-09-2021,Alaves,1 - 0,Ath Madrid
+6,01-10-2021,Ath Bilbao,1 - 0,Alaves
+7,18-10-2021,Alaves,0 - 1,Betis
+8,23-10-2021,Cadiz,0 - 2,Alaves
+9,26-10-2021,Alaves,1 - 0,Elche
+10,30-10-2021,Barcelona,1 - 1,Alaves
+11,06-11-2021,Alaves,2 - 1,Levante
+12,20-11-2021,Sevilla,2 - 2,Alaves
+13,27-11-2021,Alaves,? - ?,Celta
+14,16-08-2021,Elche,0 - 0,Ath Bilbao
+15,21-08-2021,Ath Bilbao,1 - 1,Barcelona
+16,28-08-2021,Celta,0 - 1,Ath Bilbao
+17,11-09-2021,Ath Bilbao,2 - 0,Mallorca
+18,18-09-2021,Ath Madrid,0 - 0,Ath Bilbao
+19,21-09-2021,Ath Bilbao,1 - 2,Vallecano
+20,25-09-2021,Valencia,1 - 1,Ath Bilbao
+21,01-10-2021,Ath Bilbao,1 - 0,Alaves
+22,23-10-2021,Ath Bilbao,2 - 1,Villarreal
+23,26-10-2021,Espanol,1 - 1,Ath Bilbao
+24,31-10-2021,Sociedad,1 - 1,Ath Bilbao
+25,05-11-2021,Ath Bilbao,0 - 1,Cadiz
+26,19-11-2021,Levante,0 - 0,Ath Bilbao
+27,26-11-2021,Ath Bilbao,? - ?,Granada
+28,15-08-2021,Celta,1 - 2,Ath Madrid
+29,22-08-2021,Ath Madrid,1 - 0,Elche
+30,29-08-2021,Ath Madrid,2 - 2,Villarreal
+31,12-09-2021,Espanol,1 - 2,Ath Madrid
+32,18-09-2021,Ath Madrid,0 - 0,Ath Bilbao
+33,21-09-2021,Getafe,1 - 2,Ath Madrid
+34,25-09-2021,Alaves,1 - 0,Ath Madrid
+35,02-10-2021,Ath Madrid,2 - 0,Barcelona
+36,24-10-2021,Ath Madrid,2 - 2,Sociedad
+37,28-10-2021,Levante,2 - 2,Ath Madrid
+38,31-10-2021,Ath Madrid,3 - 0,Betis
+39,07-11-2021,Valencia,3 - 3,Ath Madrid
+40,20-11-2021,Ath Madrid,1 - 0,Osasuna
+41,28-11-2021,Cadiz,? - ?,Ath Madrid
+42,15-08-2021,Barcelona,4 - 2,Sociedad
+43,21-08-2021,Ath Bilbao,1 - 1,Barcelona
+44,29-08-2021,Barcelona,2 - 1,Getafe
+45,20-09-2021,Barcelona,1 - 1,Granada
+46,23-09-2021,Cadiz,0 - 0,Barcelona
+47,26-09-2021,Barcelona,3 - 0,Levante
+48,02-10-2021,Ath Madrid,2 - 0,Barcelona
+49,17-10-2021,Barcelona,3 - 1,Valencia
+50,24-10-2021,Barcelona,1 - 2,Real Madrid
+51,27-10-2021,Vallecano,1 - 0,Barcelona
+52,30-10-2021,Barcelona,1 - 1,Alaves
+53,06-11-2021,Celta,3 - 3,Barcelona
+54,20-11-2021,Barcelona,1 - 0,Espanol
+55,27-11-2021,Villarreal,? - ?,Barcelona
+56,14-08-2021,Mallorca,1 - 1,Betis
+57,20-08-2021,Betis,1 - 1,Cadiz
+58,28-08-2021,Betis,0 - 1,Real Madrid
+59,13-09-2021,Granada,1 - 2,Betis
+60,19-09-2021,Betis,2 - 2,Espanol
+61,23-09-2021,Osasuna,1 - 3,Betis
+62,26-09-2021,Betis,2 - 0,Getafe
+63,03-10-2021,Villarreal,2 - 0,Betis
+64,18-10-2021,Alaves,0 - 1,Betis
+65,24-10-2021,Betis,3 - 2,Vallecano
+66,27-10-2021,Betis,4 - 1,Valencia
+67,31-10-2021,Ath Madrid,3 - 0,Betis
+68,07-11-2021,Betis,0 - 2,Sevilla
+69,21-11-2021,Elche,0 - 3,Betis
+70,28-11-2021,Betis,? - ?,Levante
+71,14-08-2021,Cadiz,1 - 1,Levante
+72,20-08-2021,Betis,1 - 1,Cadiz
+73,29-08-2021,Cadiz,2 - 3,Osasuna
+74,12-09-2021,Cadiz,0 - 2,Sociedad
+75,17-09-2021,Celta,1 - 2,Cadiz
+76,23-09-2021,Cadiz,0 - 0,Barcelona
+77,26-09-2021,Vallecano,3 - 1,Cadiz
+78,02-10-2021,Cadiz,0 - 0,Valencia
+79,18-10-2021,Espanol,2 - 0,Cadiz
+80,23-10-2021,Cadiz,0 - 2,Alaves
+81,26-10-2021,Villarreal,3 - 3,Cadiz
+82,31-10-2021,Cadiz,1 - 1,Mallorca
+83,05-11-2021,Ath Bilbao,0 - 1,Cadiz
+84,21-11-2021,Getafe,4 - 0,Cadiz
+85,28-11-2021,Cadiz,? - ?,Ath Madrid
+86,15-08-2021,Celta,1 - 2,Ath Madrid
+87,23-08-2021,Osasuna,0 - 0,Celta
+88,28-08-2021,Celta,0 - 1,Ath Bilbao
+89,12-09-2021,Real Madrid,5 - 2,Celta
+90,17-09-2021,Celta,1 - 2,Cadiz
+91,21-09-2021,Levante,0 - 2,Celta
+92,27-09-2021,Celta,1 - 0,Granada
+93,03-10-2021,Elche,1 - 0,Celta
+94,17-10-2021,Celta,0 - 1,Sevilla
+95,25-10-2021,Getafe,0 - 3,Celta
+96,28-10-2021,Celta,0 - 2,Sociedad
+97,01-11-2021,Vallecano,0 - 0,Celta
+98,06-11-2021,Celta,3 - 3,Barcelona
+99,20-11-2021,Celta,1 - 1,Villarreal
+100,27-11-2021,Alaves,? - ?,Celta
+101,16-08-2021,Elche,0 - 0,Ath Bilbao
+102,22-08-2021,Ath Madrid,1 - 0,Elche
+103,28-08-2021,Elche,1 - 1,Sevilla
+104,13-09-2021,Getafe,0 - 1,Elche
+105,18-09-2021,Elche,1 - 1,Levante
+106,22-09-2021,Villarreal,4 - 1,Elche
+107,26-09-2021,Sociedad,1 - 0,Elche
+108,03-10-2021,Elche,1 - 0,Celta
+109,17-10-2021,Vallecano,2 - 1,Elche
+110,23-10-2021,Elche,2 - 2,Espanol
+111,26-10-2021,Alaves,1 - 0,Elche
+112,30-10-2021,Elche,1 - 2,Real Madrid
+113,07-11-2021,Mallorca,2 - 2,Elche
+114,21-11-2021,Elche,0 - 3,Betis
+115,29-11-2021,Osasuna,? - ?,Elche
+116,14-08-2021,Osasuna,0 - 0,Espanol
+117,21-08-2021,Espanol,0 - 0,Villarreal
+118,27-08-2021,Mallorca,1 - 0,Espanol
+119,12-09-2021,Espanol,1 - 2,Ath Madrid
+120,19-09-2021,Betis,2 - 2,Espanol
+121,22-09-2021,Espanol,1 - 0,Alaves
+122,25-09-2021,Sevilla,2 - 0,Espanol
+123,03-10-2021,Espanol,2 - 1,Real Madrid
+124,18-10-2021,Espanol,2 - 0,Cadiz
+125,23-10-2021,Elche,2 - 2,Espanol
+126,26-10-2021,Espanol,1 - 1,Ath Bilbao
+127,31-10-2021,Getafe,2 - 1,Espanol
+128,06-11-2021,Espanol,2 - 0,Granada
+129,20-11-2021,Barcelona,1 - 0,Espanol
+130,28-11-2021,Espanol,? - ?,Sociedad
+131,13-08-2021,Valencia,1 - 0,Getafe
+132,23-08-2021,Getafe,0 - 1,Sevilla
+133,29-08-2021,Barcelona,2 - 1,Getafe
+134,13-09-2021,Getafe,0 - 1,Elche
+135,18-09-2021,Vallecano,3 - 0,Getafe
+136,21-09-2021,Getafe,1 - 2,Ath Madrid
+137,26-09-2021,Betis,2 - 0,Getafe
+138,03-10-2021,Getafe,1 - 1,Sociedad
+139,16-10-2021,Levante,0 - 0,Getafe
+140,25-10-2021,Getafe,0 - 3,Celta
+141,28-10-2021,Granada,1 - 1,Getafe
+142,31-10-2021,Getafe,2 - 1,Espanol
+143,07-11-2021,Villarreal,1 - 0,Getafe
+144,21-11-2021,Getafe,4 - 0,Cadiz
+145,27-11-2021,Mallorca,? - ?,Getafe
+146,16-08-2021,Villarreal,0 - 0,Granada
+147,21-08-2021,Granada,1 - 1,Valencia
+148,29-08-2021,Vallecano,4 - 0,Granada
+149,13-09-2021,Granada,1 - 2,Betis
+150,20-09-2021,Barcelona,1 - 1,Granada
+151,23-09-2021,Granada,2 - 3,Sociedad
+152,27-09-2021,Celta,1 - 0,Granada
+153,03-10-2021,Granada,1 - 0,Sevilla
+154,22-10-2021,Osasuna,1 - 1,Granada
+155,28-10-2021,Granada,1 - 1,Getafe
+156,01-11-2021,Levante,0 - 3,Granada
+157,06-11-2021,Espanol,2 - 0,Granada
+158,21-11-2021,Granada,1 - 4,Real Madrid
+159,26-11-2021,Ath Bilbao,? - ?,Granada
+160,14-08-2021,Cadiz,1 - 1,Levante
+161,22-08-2021,Levante,3 - 3,Real Madrid
+162,28-08-2021,Sociedad,1 - 0,Levante
+163,11-09-2021,Levante,1 - 1,Vallecano
+164,18-09-2021,Elche,1 - 1,Levante
+165,21-09-2021,Levante,0 - 2,Celta
+166,26-09-2021,Barcelona,3 - 0,Levante
+167,02-10-2021,Mallorca,1 - 0,Levante
+168,16-10-2021,Levante,0 - 0,Getafe
+169,24-10-2021,Sevilla,5 - 3,Levante
+170,28-10-2021,Levante,2 - 2,Ath Madrid
+171,01-11-2021,Levante,0 - 3,Granada
+172,06-11-2021,Alaves,2 - 1,Levante
+173,19-11-2021,Levante,0 - 0,Ath Bilbao
+174,28-11-2021,Betis,? - ?,Levante
+175,14-08-2021,Mallorca,1 - 1,Betis
+176,21-08-2021,Alaves,0 - 1,Mallorca
+177,27-08-2021,Mallorca,1 - 0,Espanol
+178,11-09-2021,Ath Bilbao,2 - 0,Mallorca
+179,19-09-2021,Mallorca,0 - 0,Villarreal
+180,22-09-2021,Real Madrid,6 - 1,Mallorca
+181,26-09-2021,Mallorca,2 - 3,Osasuna
+182,02-10-2021,Mallorca,1 - 0,Levante
+183,16-10-2021,Sociedad,1 - 0,Mallorca
+184,23-10-2021,Valencia,2 - 2,Mallorca
+185,27-10-2021,Mallorca,1 - 1,Sevilla
+186,31-10-2021,Cadiz,1 - 1,Mallorca
+187,07-11-2021,Mallorca,2 - 2,Elche
+188,22-11-2021,Vallecano,3 - 1,Mallorca
+189,27-11-2021,Mallorca,? - ?,Getafe
+190,14-08-2021,Osasuna,0 - 0,Espanol
+191,23-08-2021,Osasuna,0 - 0,Celta
+192,29-08-2021,Cadiz,2 - 3,Osasuna
+193,12-09-2021,Osasuna,1 - 4,Valencia
+194,18-09-2021,Alaves,0 - 2,Osasuna
+195,23-09-2021,Osasuna,1 - 3,Betis
+196,26-09-2021,Mallorca,2 - 3,Osasuna
+197,02-10-2021,Osasuna,1 - 0,Vallecano
+198,17-10-2021,Villarreal,1 - 2,Osasuna
+199,22-10-2021,Osasuna,1 - 1,Granada
+200,27-10-2021,Real Madrid,0 - 0,Osasuna
+201,30-10-2021,Sevilla,2 - 0,Osasuna
+202,07-11-2021,Osasuna,0 - 2,Sociedad
+203,20-11-2021,Ath Madrid,1 - 0,Osasuna
+204,29-11-2021,Osasuna,? - ?,Elche
+205,14-08-2021,Alaves,1 - 4,Real Madrid
+206,22-08-2021,Levante,3 - 3,Real Madrid
+207,28-08-2021,Betis,0 - 1,Real Madrid
+208,12-09-2021,Real Madrid,5 - 2,Celta
+209,19-09-2021,Valencia,1 - 2,Real Madrid
+210,22-09-2021,Real Madrid,6 - 1,Mallorca
+211,25-09-2021,Real Madrid,0 - 0,Villarreal
+212,03-10-2021,Espanol,2 - 1,Real Madrid
+213,24-10-2021,Barcelona,1 - 2,Real Madrid
+214,27-10-2021,Real Madrid,0 - 0,Osasuna
+215,30-10-2021,Elche,1 - 2,Real Madrid
+216,06-11-2021,Real Madrid,2 - 1,Vallecano
+217,21-11-2021,Granada,1 - 4,Real Madrid
+218,28-11-2021,Real Madrid,? - ?,Sevilla
+219,15-08-2021,Sevilla,3 - 0,Vallecano
+220,23-08-2021,Getafe,0 - 1,Sevilla
+221,28-08-2021,Elche,1 - 1,Sevilla
+222,19-09-2021,Sociedad,0 - 0,Sevilla
+223,22-09-2021,Sevilla,3 - 1,Valencia
+224,25-09-2021,Sevilla,2 - 0,Espanol
+225,03-10-2021,Granada,1 - 0,Sevilla
+226,17-10-2021,Celta,0 - 1,Sevilla
+227,24-10-2021,Sevilla,5 - 3,Levante
+228,27-10-2021,Mallorca,1 - 1,Sevilla
+229,30-10-2021,Sevilla,2 - 0,Osasuna
+230,07-11-2021,Betis,0 - 2,Sevilla
+231,20-11-2021,Sevilla,2 - 2,Alaves
+232,28-11-2021,Real Madrid,? - ?,Sevilla
+233,15-08-2021,Barcelona,4 - 2,Sociedad
+234,22-08-2021,Sociedad,1 - 0,Vallecano
+235,28-08-2021,Sociedad,1 - 0,Levante
+236,12-09-2021,Cadiz,0 - 2,Sociedad
+237,19-09-2021,Sociedad,0 - 0,Sevilla
+238,23-09-2021,Granada,2 - 3,Sociedad
+239,26-09-2021,Sociedad,1 - 0,Elche
+240,03-10-2021,Getafe,1 - 1,Sociedad
+241,16-10-2021,Sociedad,1 - 0,Mallorca
+242,24-10-2021,Ath Madrid,2 - 2,Sociedad
+243,28-10-2021,Celta,0 - 2,Sociedad
+244,31-10-2021,Sociedad,1 - 1,Ath Bilbao
+245,07-11-2021,Osasuna,0 - 2,Sociedad
+246,21-11-2021,Sociedad,0 - 0,Valencia
+247,28-11-2021,Espanol,? - ?,Sociedad
+248,13-08-2021,Valencia,1 - 0,Getafe
+249,21-08-2021,Granada,1 - 1,Valencia
+250,27-08-2021,Valencia,3 - 0,Alaves
+251,12-09-2021,Osasuna,1 - 4,Valencia
+252,19-09-2021,Valencia,1 - 2,Real Madrid
+253,22-09-2021,Sevilla,3 - 1,Valencia
+254,25-09-2021,Valencia,1 - 1,Ath Bilbao
+255,02-10-2021,Cadiz,0 - 0,Valencia
+256,17-10-2021,Barcelona,3 - 1,Valencia
+257,23-10-2021,Valencia,2 - 2,Mallorca
+258,27-10-2021,Betis,4 - 1,Valencia
+259,30-10-2021,Valencia,2 - 0,Villarreal
+260,07-11-2021,Valencia,3 - 3,Ath Madrid
+261,21-11-2021,Sociedad,0 - 0,Valencia
+262,27-11-2021,Valencia,? - ?,Vallecano
+263,15-08-2021,Sevilla,3 - 0,Vallecano
+264,22-08-2021,Sociedad,1 - 0,Vallecano
+265,29-08-2021,Vallecano,4 - 0,Granada
+266,11-09-2021,Levante,1 - 1,Vallecano
+267,18-09-2021,Vallecano,3 - 0,Getafe
+268,21-09-2021,Ath Bilbao,1 - 2,Vallecano
+269,26-09-2021,Vallecano,3 - 1,Cadiz
+270,02-10-2021,Osasuna,1 - 0,Vallecano
+271,17-10-2021,Vallecano,2 - 1,Elche
+272,24-10-2021,Betis,3 - 2,Vallecano
+273,27-10-2021,Vallecano,1 - 0,Barcelona
+274,01-11-2021,Vallecano,0 - 0,Celta
+275,06-11-2021,Real Madrid,2 - 1,Vallecano
+276,22-11-2021,Vallecano,3 - 1,Mallorca
+277,27-11-2021,Valencia,? - ?,Vallecano
+278,16-08-2021,Villarreal,0 - 0,Granada
+279,21-08-2021,Espanol,0 - 0,Villarreal
+280,29-08-2021,Ath Madrid,2 - 2,Villarreal
+281,19-09-2021,Mallorca,0 - 0,Villarreal
+282,22-09-2021,Villarreal,4 - 1,Elche
+283,25-09-2021,Real Madrid,0 - 0,Villarreal
+284,03-10-2021,Villarreal,2 - 0,Betis
+285,17-10-2021,Villarreal,1 - 2,Osasuna
+286,23-10-2021,Ath Bilbao,2 - 1,Villarreal
+287,26-10-2021,Villarreal,3 - 3,Cadiz
+288,30-10-2021,Valencia,2 - 0,Villarreal
+289,07-11-2021,Villarreal,1 - 0,Getafe
+290,20-11-2021,Celta,1 - 1,Villarreal
+291,27-11-2021,Villarreal,? - ?,Barcelona
